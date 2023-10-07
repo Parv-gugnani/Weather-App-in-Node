@@ -1,3 +1,4 @@
+/*
 //asynchronous video
 console.log("Starting");
 
@@ -8,3 +9,4 @@ setTimeout(() => {
 }, 0);
 // , this is time milliseconds we added 2 sec timeout
 console.log("stoping");
+*/
